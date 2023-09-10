@@ -28,4 +28,4 @@ by sagar hooda
 
 
 
-from free html templates
+made from free html templates
